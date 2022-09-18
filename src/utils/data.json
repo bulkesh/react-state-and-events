@@ -1,0 +1,22 @@
+[
+    {
+        "date":"september 2022, 01",
+        "title":"Medical",
+        "amount": 2300
+    },
+    {
+        "date":"september 2022, 03",
+        "title":"Education",
+        "amount": 35000
+    },
+    {
+        "date":"september 2022, 15",
+        "title":"Grocery",
+        "amount": 15000
+    },
+    {
+        "date":"september 2022, 18",
+        "title":"New Laptop",
+        "amount": 125000
+    }
+]
